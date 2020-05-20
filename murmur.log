@@ -1,0 +1,34 @@
+<W>2020-05-12 18:17:16.070 SSL: OpenSSL version is 'OpenSSL 1.0.2k  26 Jan 2017'
+<W>2020-05-12 18:17:16.073 Initializing settings from /Users/trev/Downloads/Murmur-OSX-Static-1.3.0/murmur.ini (basepath /Users/trev/Downloads/Murmur-OSX-Static-1.3.0)
+<W>2020-05-12 18:17:16.091 MetaParams: TLS cipher preference is "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA:AES256-SHA:AES128-SHA"
+<W>2020-05-12 18:17:16.717 ServerDB: Opened SQLite database /Users/trev/Downloads/Murmur-OSX-Static-1.3.0/murmur.sqlite
+<W>2020-05-12 18:17:16.717 ServerDB: Using SQLite's default rollback journal.
+<W>2020-05-12 18:17:17.679 Performed initial PBKDF2 benchmark. Will use 16000 iterations as default
+<W>2020-05-12 18:17:17.680 Generating new tables...
+<W>2020-05-12 18:17:17.691 MurmurIce: Endpoint "tcp -h 127.0.0.1 -p 6502" running
+<W>2020-05-12 18:17:17.693 Murmur 1.3.0 (1.3.0) running on OSX: 10.15.2 19C57: Booting servers
+<W>2020-05-12 18:17:17.736 1 => Password for 'SuperUser' set to 'x2hFRY4aHF32'
+<W>2020-05-12 18:17:17.744 1 => Server listening on 0.0.0.0:64738
+<W>2020-05-12 18:17:17.746 1 => Server: Failed to set TOS for UDP Socket
+<W>2020-05-12 18:17:17.763 1 => Generating new server certificate.
+<W>2020-05-12 18:17:17.902 1 => Announcing server via bonjour
+<W>2020-05-12 18:17:17.904 1 => Not registering server as public
+<W>2020-05-12 18:18:13.001 1 => <1:(-1)> New connection: [0::1]:55908
+<W>2020-05-12 18:18:13.002 Connection: Failed to set TOS for TCP Socket
+<W>2020-05-12 18:18:13.025 1 => <1:(-1)> Connection closed: The remote host closed the connection [1]
+<W>2020-05-12 18:18:15.427 1 => <2:(-1)> New connection: [0::1]:55909
+<W>2020-05-12 18:18:15.428 Connection: Failed to set TOS for TCP Socket
+<W>2020-05-12 18:18:15.439 1 => <2:(-1)> Client version 1.3.0 (OSX: 1.3.0~2729~g2126495~snapshot)
+<W>2020-05-12 18:18:15.442 1 => Starting voice thread
+<W>2020-05-12 18:18:15.443 1 => CELT codec switch ffffffff80000010 0 (prefer ffffffff80000010) (Opus 1)
+<W>2020-05-12 18:18:15.446 1 => <2:trev(-1)> Authenticated
+<W>2020-05-12 18:19:13.899 1 => <2:trev(-1)> Connection closed: The remote host closed the connection [1]
+<W>2020-05-12 18:19:13.903 1 => Ending voice thread
+<C>2020-05-19 22:51:39.944 Caught SIGTERM, exiting
+<W>2020-05-19 22:51:39.960 Killing running servers
+<W>2020-05-19 22:51:40.082 1 => Removed all Ice ServerCallbacks
+<W>2020-05-19 22:51:40.087 1 => Stopped announcing server via bonjour
+<W>2020-05-19 22:51:40.094 1 => Stopped
+<W>2020-05-19 22:51:40.103 Shutting down
+<W>2020-05-19 22:51:40.111 MurmurIce: Shutdown complete
+
